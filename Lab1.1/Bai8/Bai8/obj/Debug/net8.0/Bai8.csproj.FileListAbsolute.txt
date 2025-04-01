@@ -1,0 +1,14 @@
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\bin\Debug\net8.0\Bai8.exe
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\bin\Debug\net8.0\Bai8.deps.json
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\bin\Debug\net8.0\Bai8.runtimeconfig.json
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\bin\Debug\net8.0\Bai8.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\bin\Debug\net8.0\Bai8.pdb
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\Bai8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\Bai8.AssemblyInfoInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\Bai8.AssemblyInfo.cs
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\Bai8.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\refint\Bai8.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\Bai8.pdb
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\Bai8.genruntimeconfig.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Lab1.1\Bai8\Bai8\obj\Debug\net8.0\ref\Bai8.dll

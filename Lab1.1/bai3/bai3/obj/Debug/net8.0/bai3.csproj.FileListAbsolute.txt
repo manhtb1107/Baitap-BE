@@ -1,0 +1,14 @@
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\bin\Debug\net8.0\bai3.exe
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\bin\Debug\net8.0\bai3.deps.json
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\bin\Debug\net8.0\bai3.runtimeconfig.json
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\bin\Debug\net8.0\bai3.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\bin\Debug\net8.0\bai3.pdb
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\bai3.AssemblyInfoInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\bai3.AssemblyInfo.cs
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\bai3.csproj.CoreCompileInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\bai3.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\refint\bai3.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\bai3.pdb
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\bai3.genruntimeconfig.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\bai3\bai3\obj\Debug\net8.0\ref\bai3.dll

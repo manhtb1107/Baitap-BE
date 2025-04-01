@@ -1,0 +1,14 @@
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\bin\Debug\net8.0\Bai9.exe
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\bin\Debug\net8.0\Bai9.deps.json
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\bin\Debug\net8.0\Bai9.runtimeconfig.json
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\bin\Debug\net8.0\Bai9.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\bin\Debug\net8.0\Bai9.pdb
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\Bai9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\Bai9.AssemblyInfoInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\Bai9.AssemblyInfo.cs
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\Bai9.csproj.CoreCompileInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\Bai9.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\refint\Bai9.dll
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\Bai9.pdb
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\Bai9.genruntimeconfig.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BACKEND\Bai9\Bai9\obj\Debug\net8.0\ref\Bai9.dll

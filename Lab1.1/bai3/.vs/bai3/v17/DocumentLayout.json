@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BACKEND\\bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B40A6D2-8D76-4FEE-859F-68FA59EE0BC0}|bai3\\bai3.csproj|c:\\users\\duymanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\backend\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B40A6D2-8D76-4FEE-859F-68FA59EE0BC0}|bai3\\bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BACKEND\\bai3\\bai3\\Program.cs",
+              "RelativeDocumentMoniker": "bai3\\Program.cs",
+              "ToolTip": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BACKEND\\bai3\\bai3\\Program.cs",
+              "RelativeToolTip": "bai3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:21:19.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
