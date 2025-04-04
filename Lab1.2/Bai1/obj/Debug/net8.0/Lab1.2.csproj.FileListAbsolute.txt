@@ -1,0 +1,5 @@
+C:\Users\DuyManh\OneDrive\Tài liệu\BE_Bài Tập\Bai1\Bai1\obj\Debug\net8.0\Lab1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DuyManh\OneDrive\Tài liệu\BE_Bài Tập\Bai1\Bai1\obj\Debug\net8.0\Lab1.2.AssemblyInfoInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BE_Bài Tập\Bai1\Bai1\obj\Debug\net8.0\Lab1.2.AssemblyInfo.cs
+C:\Users\DuyManh\OneDrive\Tài liệu\BE_Bài Tập\Bai1\Bai1\obj\Debug\net8.0\Lab1.2.csproj.CoreCompileInputs.cache
+C:\Users\DuyManh\OneDrive\Tài liệu\BE_Bài Tập\Bai1\Bai1\obj\Debug\net8.0\Lab1.2.sourcelink.json

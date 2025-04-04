@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BACKEND\\Bai1\\Bai1\\Bai1.csproj": {}
+    "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BE_Bài Tập\\Lab1.1\\Bai1\\Bai1\\Bai1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BACKEND\\Bai1\\Bai1\\Bai1.csproj": {
+    "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BE_Bài Tập\\Lab1.1\\Bai1\\Bai1\\Bai1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BACKEND\\Bai1\\Bai1\\Bai1.csproj",
+        "projectUniqueName": "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BE_Bài Tập\\Lab1.1\\Bai1\\Bai1\\Bai1.csproj",
         "projectName": "Bai1",
-        "projectPath": "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BACKEND\\Bai1\\Bai1\\Bai1.csproj",
+        "projectPath": "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BE_Bài Tập\\Lab1.1\\Bai1\\Bai1\\Bai1.csproj",
         "packagesPath": "C:\\Users\\DuyManh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BACKEND\\Bai1\\Bai1\\obj\\",
+        "outputPath": "C:\\Users\\DuyManh\\OneDrive\\Tài liệu\\BE_Bài Tập\\Lab1.1\\Bai1\\Bai1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

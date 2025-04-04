@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3CEF5E-A010-4D35-BB34-D23E89CE4770}|Bai6\\Bai6.csproj|c:\\users\\duymanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\be_b\u00E0i t\u1EADp\\bai1\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3CEF5E-A010-4D35-BB34-D23E89CE4770}|Bai6\\Bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40471834-385B-4BD0-A1CF-67E6E34AEBFC}|Bai5\\Bai5.csproj|c:\\users\\duymanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\be_b\u00E0i t\u1EADp\\bai1\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40471834-385B-4BD0-A1CF-67E6E34AEBFC}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8360A-422D-4F02-ADDB-839AEA09211E}|Bai4\\Bai4.csproj|c:\\users\\duymanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\be_b\u00E0i t\u1EADp\\bai1\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8360A-422D-4F02-ADDB-839AEA09211E}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217047DD-110D-4435-95BF-9D18B8E42379}|Bai3\\Bai3.csproj|c:\\users\\duymanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\be_b\u00E0i t\u1EADp\\bai1\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217047DD-110D-4435-95BF-9D18B8E42379}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA286D8-B715-4286-A06F-4DF052D659B1}|Bai2\\Bai2.csproj|c:\\users\\duymanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\be_b\u00E0i t\u1EADp\\bai1\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA286D8-B715-4286-A06F-4DF052D659B1}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476FD37A-465D-4F4D-B6DD-73C8DDD4A5F9}|Bai1\\Bai1.csproj|c:\\users\\duymanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\be_b\u00E0i t\u1EADp\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476FD37A-465D-4F4D-B6DD-73C8DDD4A5F9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6\\Program.cs",
+              "ToolTip": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai6\\Program.cs*",
+              "RelativeToolTip": "Bai6\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:39:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai5\\Program.cs",
+              "ToolTip": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai5\\Program.cs",
+              "RelativeToolTip": "Bai5\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:36:38.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:34:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:32:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:30:28.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\DuyManh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\BE_B\u00E0i T\u1EADp\\Bai1\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:28:13.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
